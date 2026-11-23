@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Toronto Ghosts",
+    "city":  "Toronto"
+  },
+  {
+    "id": 2,
+    "name": "Edmonton Hawks",
+    "city":  "Edmonton"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Charlie Stewart",
+    "teamId": 1,
+    "overall": 95
+  },
+  {
+    "name": "Ben Dee",
+    "teamId": 1,
+    "overall": 67
+  },
+  {
+    "name": "Kyle Jarvis",
+    "teamId": 2,
+    "overall": 99
+  }
+]
